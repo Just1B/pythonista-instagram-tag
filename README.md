@@ -1,4 +1,4 @@
-#Instagram tag scrapper
+## Instagram tag scrapper
 
 Install the chromedriver on mac :
 
